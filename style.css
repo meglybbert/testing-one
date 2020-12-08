@@ -1,0 +1,6 @@
+.legend{
+  display: flex;
+  flex-direction: row;
+  row-wrap: wrap;
+  justify-content: space-around;
+}
